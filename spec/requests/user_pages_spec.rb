@@ -1,3 +1,4 @@
+# Testu nejduj pislia list 10.32-33.
 require 'spec_helper'
 
 describe "User pages" do
